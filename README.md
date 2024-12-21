@@ -2,7 +2,7 @@
 Simple but amazing profile picture generator for HighSeas! <br>
 Made only with HTML, JS and TailwindCSS!
 
-### **Generate yours on [https://hs-pfpgen.ostv.cz](https://hs-pfpgen.ostv.cz)** <br>
+### **Generate yours at [https://hs-pfpgen.ostv.cz](https://hs-pfpgen.ostv.cz)** <br>
 If you have any ideas message me on [Slack](https://hackclub.slack.com/team/U0808AQTWAF)!
 
 ## Preview
